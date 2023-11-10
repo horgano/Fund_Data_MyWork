@@ -1,0 +1,15 @@
+Iris Data Set CSV file in excel
+Data Tab
+> Text to Colums
+Next
+Unclick Tab, select commas, finish
+
+Open excel: Col A-D are right aligned, Col E is Left aligned
+Data set cotains Ints and Decimals
+
+Save file as shown in 1.0.nb
+
+Receive warning DATA may be lost:
+
+
+
